@@ -6,7 +6,7 @@ This is the application architecture we will build:
 
 2) Angular Client sends HTTP Requests and retrieve HTTP Responses using axios, shows data on the components. We also use Angular Router for navigating to pages.
 
-Architecture Overview :
+# Architecture Overview :
 
  ![angular-spring-boot-jpa-crud-example-architecture](https://user-images.githubusercontent.com/93249038/215018036-163637b5-c34f-442b-9af5-84f42a72a6e8.png)
 
