@@ -168,3 +168,7 @@ export class AppModule { }
 1) npm install
 
 2)ng serve --port 8081
+
+![Screenshot (83)](https://user-images.githubusercontent.com/93249038/215019628-678d82b4-8430-4684-ac90-ea1e9d2c6656.png)
+
+
